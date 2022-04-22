@@ -1,6 +1,6 @@
 # csv-to-json
 
-csv-to-json is NodeJS for converting csv file to json file.
+csv-to-json is NodeJS for converting CSV file to JSON file.
 
 ## Version of npm and NodeJS
 ```bash
